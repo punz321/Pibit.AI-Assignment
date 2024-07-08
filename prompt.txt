@@ -1,1 +1,1 @@
-i will give you my resume in text format and i want you to parse it in JSON format, kindly do it, and say "ok i will do it for you" when you're ready for it. 
+i will give you my resume in text format and i want you to parse it in JSON format, kindly do it, and say "ok i will do it for you" when you're ready for it.
